@@ -1,0 +1,48 @@
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\bin\Debug\net10.0-windows\formulario.exe
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\bin\Debug\net10.0-windows\formulario.deps.json
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\bin\Debug\net10.0-windows\formulario.runtimeconfig.json
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\bin\Debug\net10.0-windows\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\bin\Debug\net10.0-windows\formulario.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.Form1.resources
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.csproj.GenerateResource.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.AssemblyInfoInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.AssemblyInfo.cs
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\refint\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\formulario.genruntimeconfig.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\ej1\formulario\obj\Debug\net10.0-windows\ref\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.exe
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.deps.json
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.runtimeconfig.json
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.Form1.resources
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.csproj.GenerateResource.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.AssemblyInfoInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.AssemblyInfo.cs
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\refint\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.genruntimeconfig.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Nueva carpeta\GUI 01\formulario\obj\Debug\net10.0-windows\ref\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.exe
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.deps.json
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.runtimeconfig.json
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\bin\Debug\net10.0-windows\formulario.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.Form1.resources
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.csproj.GenerateResource.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.AssemblyInfoInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.AssemblyInfo.cs
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.csproj.CoreCompileInputs.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\refint\formulario.dll
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.pdb
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\formulario.genruntimeconfig.cache
+C:\visual studio comunity codes\desarrollo de aplicaciones\Actividad 1\GUI 01\formulario\obj\Debug\net10.0-windows\ref\formulario.dll
